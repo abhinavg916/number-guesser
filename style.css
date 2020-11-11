@@ -1,5 +1,25 @@
+html {
+  background-color: #f8f9fa;
+}
+
 body > div {
+  margin-top: 30vh !important;
   height: 100vh;
+  text-align: center;
+}
+
+#guess-input:focus {
+  border: #333 1px solid;
+}
+
+#guess-btn {
+  border: #333 1px solid;
+  transition: all 0.3s ease-in-out;
+}
+
+#guess-btn:hover {
+  background-color: #333;
+  color: #fff;
 }
 
 footer {
