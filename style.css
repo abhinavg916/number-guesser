@@ -1,0 +1,23 @@
+body > div {
+  height: 100vh;
+}
+
+footer {
+  text-align: center;
+  padding: 2rem 0 !important;
+  line-height: 2;
+}
+
+footer p {
+  margin: 0;
+}
+
+footer a {
+  text-decoration: none;
+  color: #333;
+}
+
+footer a:hover {
+  text-decoration: none;
+  color: #333;
+}
